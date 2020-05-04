@@ -1,3 +1,5 @@
 {
-  "emailRecipient": "pltkiet@gmail.com"
+  "email": "email người gửi",
+  "password": "mật khẩu email người gửi",
+  "emailRecipient": "email người nhận"
 }
