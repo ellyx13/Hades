@@ -1,0 +1,15 @@
+D:\Work Server\CSharp\Hades\Hades\bin\Debug\Hades.exe.config
+D:\Work Server\CSharp\Hades\Hades\bin\Debug\Hades.exe
+D:\Work Server\CSharp\Hades\Hades\bin\Debug\Hades.pdb
+D:\Work Server\CSharp\Hades\Hades\obj\Debug\Hades.csprojAssemblyReference.cache
+D:\Work Server\CSharp\Hades\Hades\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Work Server\CSharp\Hades\Hades\obj\Debug\Hades.csproj.ResolveComReference.cache
+D:\Work Server\CSharp\Hades\Hades\obj\Debug\Hades.Properties.Resources.resources
+D:\Work Server\CSharp\Hades\Hades\obj\Debug\Hades.csproj.GenerateResource.cache
+D:\Work Server\CSharp\Hades\Hades\obj\Debug\Hades.csproj.CoreCompileInputs.cache
+D:\Work Server\CSharp\Hades\Hades\obj\Debug\Hades.exe
+D:\Work Server\CSharp\Hades\Hades\obj\Debug\Hades.pdb
+D:\Work Server\CSharp\Hades\Hades\obj\Debug\Hades.Form1.resources
+D:\Work Server\CSharp\Hades\Hades\bin\Debug\Newtonsoft.Json.dll
+D:\Work Server\CSharp\Hades\Hades\bin\Debug\Newtonsoft.Json.xml
+D:\Work Server\CSharp\Hades\Hades\obj\Debug\Hades.csproj.CopyComplete
