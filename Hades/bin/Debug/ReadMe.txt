@@ -6,6 +6,9 @@ Hướng dẫn sử dụng Tool
 Máy các bạn nào không có .Net Framework 4.7.2 thì cài trong folder Hades. 
 Mình có để bản đó chung với thư mục này.
 
+Mở file gmail.json điền thông tin vào
+Lưu ý: email người gửi phải kích hoạt quyền truy cập thì mới gửi được
+
 Sau đó mở file Hades.exe
 
 Bạn nhập 2 lần mật khẩu giống nhau để thoát.
